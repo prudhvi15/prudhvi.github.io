@@ -14,6 +14,8 @@ Syntax highlighted code block
 # Northwest Missouri State University
 ## Applied Computer Science
 ### Web Applications and Services
+[canvas](https://nwmissouri.instructure.com/) and ![Image](src)
+```
 
 - Bulleted
 - List
@@ -25,8 +27,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[canvas](https://nwmissouri.instructure.com/) and ![Image](src)
-```
+
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
