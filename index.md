@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Welcome to My First WebPage
 
 You can use the [editor on GitHub](https://github.com/prudhvi15/prudhvi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -11,19 +11,21 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# Northwest Missouri State University
+## Applied Computer Science
+### Web Applications and Services
 
 - Bulleted
 - List
+- New Item
 
 1. Numbered
 2. List
+3. More
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[canvas](https://nwmissouri.instructure.com/) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
